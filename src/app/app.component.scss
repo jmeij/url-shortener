@@ -1,0 +1,13 @@
+.background {
+    background-image: linear-gradient(to right, rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44));
+    height: 100vh;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
